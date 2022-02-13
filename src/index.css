@@ -72,15 +72,23 @@ iframe {
 	}
 }
 
+nav ul li.mobile {
+	display: none;
+}
+
 @media (max-width: 400px) {
-	.nav-wrapper .ul {
+	nav ul li.dekstop {
 		display: none;
 	}
-	.nav-wrapper .hamburger {
+
+	nav ul li.mobile {
 		display: block;
 	}
 }
 
-.nav .hamburger {
-	display: none;
+.hamburger {
+	position: absolute;
+	bottom: -100px;
+	right: 0;
+	z-index: 10;
 }
