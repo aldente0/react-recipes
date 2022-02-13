@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-recipes/static/css/main.029a0098.css",
-    "main.js": "/react-recipes/static/js/main.42b2978b.js",
+    "main.css": "/react-recipes/static/css/main.0e1b1176.css",
+    "main.js": "/react-recipes/static/js/main.a2eebb63.js",
     "index.html": "/react-recipes/index.html",
-    "main.029a0098.css.map": "/react-recipes/static/css/main.029a0098.css.map",
-    "main.42b2978b.js.map": "/react-recipes/static/js/main.42b2978b.js.map"
+    "main.0e1b1176.css.map": "/react-recipes/static/css/main.0e1b1176.css.map",
+    "main.a2eebb63.js.map": "/react-recipes/static/js/main.a2eebb63.js.map"
   },
   "entrypoints": [
-    "static/css/main.029a0098.css",
-    "static/js/main.42b2978b.js"
+    "static/css/main.0e1b1176.css",
+    "static/js/main.a2eebb63.js"
   ]
 }
