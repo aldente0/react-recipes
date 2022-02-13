@@ -65,3 +65,22 @@ iframe {
 	width: 600px;
 	height: 350px;
 }
+
+@media (max-width: 450px) {
+	.contacts {
+		font-size: 25px;
+	}
+}
+
+@media (max-width: 400px) {
+	.nav-wrapper .ul {
+		display: none;
+	}
+	.nav-wrapper .hamburger {
+		display: block;
+	}
+}
+
+.nav .hamburger {
+	display: none;
+}

@@ -2,7 +2,7 @@
 
 export function Footer() {
     return (
-        <footer className="page-footer #1a237e indigo darken-4">
+        <footer className="page-footer #66bb6a green lighten-1">
         <div className="container">
           <div className="footer-copyright">
             <div className="container">
