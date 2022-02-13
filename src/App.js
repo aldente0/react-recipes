@@ -9,7 +9,7 @@ import { NotFound } from './components/NotFound';
 function App() {
 	return (
 		<>
-			<Router>
+			<Router basename='/react-recipe'>
 				<Header />
 				<main className='container content'>
 					<Switch>
